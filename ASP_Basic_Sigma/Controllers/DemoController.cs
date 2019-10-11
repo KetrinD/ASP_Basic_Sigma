@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ASP_Basic_Sigma.Controllers
 {
-    //[Route("DemoRoute
+   // [Route("api/v2")]
     public class DemoController: ControllerBase
     {
         public string GetHello()
